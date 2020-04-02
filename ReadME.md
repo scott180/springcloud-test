@@ -17,12 +17,20 @@ Spring Cloud 采用了英国伦敦地铁站的名称来命名，并由地铁站�
 
 >官方文档 &ensp; https://www.springcloud.cc/spring-cloud-dalston.html
 
+-------
 
 >纯洁的微笑 
 http://www.ityouknow.com/spring-cloud.html &ensp;
 https://www.cnblogs.com/ityouknow/category/994104.html &ensp;
 https://github.com/ityouknow/spring-boot-examples
 
+- [springcloud(一)：大话Spring Cloud]( https://www.cnblogs.com/ityouknow/p/6791221.html )
+- [springcloud(二)：注册中心Eureka]( https://www.cnblogs.com/ityouknow/p/6854805.html )
+- [springcloud(三)：服务提供与调用]( https://www.cnblogs.com/ityouknow/p/6859802.html )
+- [springcloud(四)：熔断器Hystrix]( https://www.cnblogs.com/ityouknow/p/6868833.html )
+- [springcloud(五)：熔断监控Hystrix Dashboard和Turbine]( https://www.cnblogs.com/ityouknow/p/6889059.html)
+
+-------
 >方志朋博客
 https://blog.csdn.net/forezp/article/details/70148833 &ensp;
 https://www.fangzhipeng.com/spring-cloud.html &ensp;
