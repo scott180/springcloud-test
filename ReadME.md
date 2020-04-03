@@ -28,7 +28,13 @@ https://github.com/ityouknow/spring-boot-examples
 - [springcloud(二)：注册中心Eureka]( https://www.cnblogs.com/ityouknow/p/6854805.html )
 - [springcloud(三)：服务提供与调用]( https://www.cnblogs.com/ityouknow/p/6859802.html )
 - [springcloud(四)：熔断器Hystrix]( https://www.cnblogs.com/ityouknow/p/6868833.html )
-- [springcloud(五)：熔断监控Hystrix Dashboard和Turbine]( https://www.cnblogs.com/ityouknow/p/6889059.html)
+- [springcloud(五)：熔断监控Hystrix Dashboard和Turbine]( https://www.cnblogs.com/ityouknow/p/6889059.html )
+
+- [springcloud(六)：配置中心git示例]( https://www.cnblogs.com/ityouknow/p/6892584.html )
+- [springcloud(七)：配置中心svn示例和refresh]( https://www.cnblogs.com/ityouknow/p/6906917.html )
+- [springcloud(八)：配置中心服务化和高可用]( https://www.cnblogs.com/ityouknow/p/6922705.html )
+- [springcloud(九)：配置中心和消息总线（配置中心终结版）]( https://www.cnblogs.com/ityouknow/p/6931958.html )
+- [springcloud(十)：服务网关zuul]( https://www.cnblogs.com/ityouknow/p/6944096.html )  
 
 -------
 >方志朋博客
