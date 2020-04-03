@@ -2,12 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9d55d99-975f-473f-b3bc-8ac2b820aa99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../7.spring-cloud-config-svn-refresh/spring-cloud-config-client-refresh/spring-cloud-config-client-refresh.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../5.hystrix-dashboard-turbine/spring-cloud-eureka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.hystrix-dashboard-turbine/spring-cloud-eureka/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-cloud-config-client/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-config-client/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-cloud-config-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-config-client/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7.spring-cloud-config-svn-refresh/spring-cloud-config-client-refresh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7.spring-cloud-config-svn-refresh/spring-cloud-config-client-refresh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-client/src/main/java/com/neo/ConfigClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-client/src/main/java/com/neo/web/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-client/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-client/src/main/resources/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-client/src/test/java/com/neo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-server/src/main/java/com/neo/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-config-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-eureka/src/main/java/com/neo/SpringCloudEurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-eureka/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka-bus/spring-cloud-eureka/src/test/java/com/neo/SpringCloudEurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-client/src/main/java/com/neo/ConfigClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-client/src/main/java/com/neo/web/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-client/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-client/src/main/resources/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-client/src/test/java/com/neo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-server/src/main/java/com/neo/ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-config-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-eureka/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-eureka/src/main/java/com/neo/SpringCloudEurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-eureka/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-config-eureka/spring-cloud-eureka/src/test/java/com/neo/SpringCloudEurekaApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,7 +58,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
+            <state relative-caret-position="171">
               <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
             </state>
           </provider>
@@ -202,7 +226,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2130000" />
+    <option name="totallyTimeSpent" value="2696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -219,7 +243,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.4174397" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.48051947" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48051947" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -278,7 +302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="171">
           <caret line="9" column="65" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
         </state>
       </provider>
