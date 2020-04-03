@@ -44,7 +44,15 @@ https://github.com/ityouknow/spring-boot-examples
 - [springcloud(十六)：服务网关 Spring Cloud GateWay 服务化和过滤器](http://www.ityouknow.com/springcloud/2019/01/19/spring-cloud-gateway-service.html )   
 - [springcloud(十七)：服务网关 Spring Cloud GateWay 熔断、限流、重试](http://www.ityouknow.com/springcloud/2019/01/26/spring-cloud-gateway-limit.html )  
 
+```
+ 命令执行
+ java -jar spring-cloud-eureka-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer1
+ 
+ 端口被占用
+ netstat -ano|findstr 8001
+ tskill pid
 
+```
 -------
 >方志朋博客
 https://blog.csdn.net/forezp/article/details/70148833 &ensp;
