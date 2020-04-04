@@ -17,12 +17,13 @@ Spring Cloud 采用了英国伦敦地铁站的名称来命名，并由地铁站�
 
 -------
 
-> - Eureka 用于服务的注册于发现；
+> - Eureka 用于服务的注册与发现；
 > - Feign 支持服务的调用以及均衡负载；
 > - Hystrix 处理服务的熔断防止故障扩散；
 > - Spring Cloud Config 服务集群配置中心;
 > - Zuul 供动态路由，监控，弹性，安全等的边缘服务。Zuul是Netflix出品的一个基于JVM路由和服务端的负载均衡器;
 > - Spring Cloud Sleuth 和 Zipkin 进行分布式链路跟踪,快读定位服务故障点;
+> - Consul 用于实现分布式系统的服务发现与配置;
 
 
 
@@ -37,17 +38,19 @@ Spring Cloud 采用了英国伦敦地铁站的名称来命名，并由地铁站�
 - [springcloud(三)：服务提供与调用]( https://www.cnblogs.com/ityouknow/p/6859802.html )
 - [springcloud(四)：熔断器Hystrix]( https://www.cnblogs.com/ityouknow/p/6868833.html )
 - [springcloud(五)：熔断监控Hystrix Dashboard和Turbine]( https://www.cnblogs.com/ityouknow/p/6889059.html )
-
+ &ensp; 
 - [springcloud(六)：配置中心git示例]( https://www.cnblogs.com/ityouknow/p/6892584.html )
 - [springcloud(七)：配置中心svn示例和refresh]( https://www.cnblogs.com/ityouknow/p/6906917.html )
 - [springcloud(八)：配置中心服务化和高可用]( https://www.cnblogs.com/ityouknow/p/6922705.html )
 - [springcloud(九)：配置中心和消息总线（配置中心终结版）]( https://www.cnblogs.com/ityouknow/p/6931958.html )
+ &ensp; 
 - [springcloud(十)：服务网关zuul]( https://www.cnblogs.com/ityouknow/p/6944096.html )  
-
 - [springcloud(十一)：服务网关Zuul高级篇](http://www.ityouknow.com/springcloud/2018/01/20/spring-cloud-zuul.html )  
-- [springcloud(十二)：使用Spring Cloud Sleuth和Zipkin进行分布式链路跟踪](http://www.ityouknow.com/springcloud/2018/02/02/spring-cloud-sleuth-zipkin.html )  
+- [springcloud(十二)：使用Spring Cloud Sleuth和Zipkin进行分布式链路跟踪](http://www.ityouknow.com/springcloud/2018/02/02/spring-cloud-sleuth-zipkin.html ) 
+&ensp; 
 - [springcloud(十三)：Spring Cloud Consul 使用详解](http://www.ityouknow.com/springcloud/2018/07/20/spring-cloud-consul.html )  
 - [Springcloud(十四)：Spring Cloud 开源软件都有哪些？](http://www.ityouknow.com/springcloud/2018/08/06/spring-cloud-open-source.html )  
+
 - [springcloud(十五)：服务网关 Spring Cloud GateWay 初级篇](http://www.ityouknow.com/springcloud/2018/12/12/spring-cloud-gateway-start.html )  
 - [springcloud(十六)：服务网关 Spring Cloud GateWay 服务化和过滤器](http://www.ityouknow.com/springcloud/2019/01/19/spring-cloud-gateway-service.html )   
 - [springcloud(十七)：服务网关 Spring Cloud GateWay 熔断、限流、重试](http://www.ityouknow.com/springcloud/2019/01/26/spring-cloud-gateway-limit.html )  
