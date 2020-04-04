@@ -17,19 +17,16 @@ Spring Cloud 采用了英国伦敦地铁站的名称来命名，并由地铁站�
 
 -------
 
-> Eureka 用于服务的注册于发现；
-Feign 支持服务的调用以及均衡负载；
-Hystrix 处理服务的熔断防止故障扩散；
-Spring Cloud Config 服务集群配置中心
+> - Eureka 用于服务的注册于发现；
+- Feign 支持服务的调用以及均衡负载；
+- Hystrix 处理服务的熔断防止故障扩散；
+- Spring Cloud Config 服务集群配置中心
 
 <h2 id="document"></h2>
 
 ### 2、资料
 
->纯洁的微笑 
-http://www.ityouknow.com/spring-cloud.html &ensp;
-https://www.cnblogs.com/ityouknow/category/994104.html &ensp;
-https://github.com/ityouknow/spring-boot-examples
+>纯洁的微笑 &ensp; [ityouknow]( http://www.ityouknow.com/spring-cloud.html ) &ensp;[cnblogs]( https://www.cnblogs.com/ityouknow/category/994104.html ) &ensp; [github]( https://github.com/ityouknow/spring-boot-examples )
 
 - [springcloud(一)：大话Spring Cloud]( https://www.cnblogs.com/ityouknow/p/6791221.html )
 - [springcloud(二)：注册中心Eureka]( https://www.cnblogs.com/ityouknow/p/6854805.html )
@@ -61,7 +58,4 @@ https://github.com/ityouknow/spring-boot-examples
 
 ```
 -------
->方志朋博客
-https://blog.csdn.net/forezp/article/details/70148833 &ensp;
-https://www.fangzhipeng.com/spring-cloud.html &ensp;
-https://github.com/forezp/SpringCloudLearning
+>方志朋博客 &ensp;[csdn]( https://blog.csdn.net/forezp/article/details/70148833 ) &ensp;[fangzhipeng]( https://www.fangzhipeng.com/spring-cloud.html ) &ensp;[github]( https://github.com/forezp/SpringCloudLearning )
