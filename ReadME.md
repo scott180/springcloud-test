@@ -2,22 +2,29 @@
 > springcloud-test
 
 *   [1、说明](#introduce) 
+*   [2、资料](#document) 
 
-> [dillinger]( https://dillinger.io/ )   [作业部落]( https://www.zybuluo.com/mdeditor )    
-
-> [github]( https://github.com/scott180/springcloud-test ) 
+> [github]( https://github.com/scott180/springcloud-test ) &ensp;  [dillinger]( https://dillinger.io/ )  &ensp;  [作业部落]( https://www.zybuluo.com/mdeditor )   
 
 
 
 <h2 id="introduce"></h2>
 
 ### 1、说明
-> Spring Cloud为开发人员提供了快速构建分布式系统中一些常见模式的工具（例如配置管理，服务发现，断路器，智能路由，微代理，控制总线）。分布式系统的协调导致了样板模式, 使用Spring Cloud开发人员可以快速地支持实现这些模式的服务和应用程序。他们将在任何分布式环境中运行良好，包括开发人员自己的笔记本电脑，裸机数据中心，以及Cloud Foundry等托管平台。
-Spring Cloud 采用了英国伦敦地铁站的名称来命名，并由地铁站名称字母A-Z依次类推的形式来发布迭代版本。[版本说明]( https://mp.weixin.qq.com/s/IqlHFsIrFJ5vBG9-1gldJw )
-
->官方文档 &ensp; https://www.springcloud.cc/spring-cloud-dalston.html
+> <b> Spring Cloud为开发人员提供了快速构建分布式系统中一些常见模式的工具（例如配置管理，服务发现，断路器，智能路由，微代理，控制总线）。</b> 分布式系统的协调导致了样板模式, 使用Spring Cloud开发人员可以快速地支持实现这些模式的服务和应用程序。他们将在任何分布式环境中运行良好，包括开发人员自己的笔记本电脑，裸机数据中心，以及Cloud Foundry等托管平台。
+Spring Cloud 采用了英国伦敦地铁站的名称来命名，并由地铁站名称字母A-Z依次类推的形式来发布迭代版本。 &ensp; 
+[版本说明]( https://mp.weixin.qq.com/s/IqlHFsIrFJ5vBG9-1gldJw )  &ensp; [官方文档](https://www.springcloud.cc/spring-cloud-dalston.html )
 
 -------
+
+> Eureka 用于服务的注册于发现；
+Feign 支持服务的调用以及均衡负载；
+Hystrix 处理服务的熔断防止故障扩散；
+Spring Cloud Config 服务集群配置中心
+
+<h2 id="document"></h2>
+
+### 2、资料
 
 >纯洁的微笑 
 http://www.ityouknow.com/spring-cloud.html &ensp;
