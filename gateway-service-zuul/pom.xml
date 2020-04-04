@@ -9,6 +9,7 @@
 
 	<modules>
 		<module>gateway-service-zuul-eureka</module>
+        <module>gateway-service-zuul-eureka-filter</module>
 		<module>gateway-service-zuul-simple</module>
 		<module>spring-cloud-eureka</module>
 		<module>spring-cloud-producer</module>
