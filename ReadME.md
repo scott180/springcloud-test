@@ -20,7 +20,7 @@ Spring Cloud 采用了英国伦敦地铁站的名称来命名，并由地铁站�
 > - Eureka 用于服务的注册于发现；
 > - Feign 支持服务的调用以及均衡负载；
 > - Hystrix 处理服务的熔断防止故障扩散；
->- Spring Cloud Config 服务集群配置中心
+> - Spring Cloud Config 服务集群配置中心
 
 <h2 id="document"></h2>
 
