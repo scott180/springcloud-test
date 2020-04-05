@@ -23,7 +23,9 @@ Spring Cloud 采用了英国伦敦地铁站的名称来命名，并由地铁站�
 > - Spring Cloud Config 服务集群配置中心;
 > - Zuul 供动态路由，监控，弹性，安全等的边缘服务。Zuul是Netflix出品的一个基于JVM路由和服务端的负载均衡器;
 > - Spring Cloud Sleuth 和 Zipkin 进行分布式链路跟踪,快读定位服务故障点;
-> - Consul 用于实现分布式系统的服务发现与配置;
+
+> - Consul 用于实现分布式系统的服务发现与配置;替换Eureka。
+> - Spring Cloud Gateway 网关组件，提供统一的路由方式，并且基于 Filter 链的方式提供了网关基本的功能，例如：安全，监控/指标，和限流;替换Zuul。
 
 
 
